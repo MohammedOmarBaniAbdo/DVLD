@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVLD1", "DVLD1.csproj", "{5D4B76EF-5D5F-431E-ABAE-085BDFAAC35C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALPeopleDVLD", "..\DALPeopleDVLD\DALPeopleDVLD.csproj", "{819B42B7-C543-4BEC-A3A0-E81C57118865}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLLPeopleDVLD", "..\BLLPeopleDVLD\BLLPeopleDVLD.csproj", "{08443F35-2D53-41F6-8E25-0356BDF2588A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D4B76EF-5D5F-431E-ABAE-085BDFAAC35C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D4B76EF-5D5F-431E-ABAE-085BDFAAC35C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D4B76EF-5D5F-431E-ABAE-085BDFAAC35C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D4B76EF-5D5F-431E-ABAE-085BDFAAC35C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{819B42B7-C543-4BEC-A3A0-E81C57118865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819B42B7-C543-4BEC-A3A0-E81C57118865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819B42B7-C543-4BEC-A3A0-E81C57118865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819B42B7-C543-4BEC-A3A0-E81C57118865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08443F35-2D53-41F6-8E25-0356BDF2588A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08443F35-2D53-41F6-8E25-0356BDF2588A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08443F35-2D53-41F6-8E25-0356BDF2588A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08443F35-2D53-41F6-8E25-0356BDF2588A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
